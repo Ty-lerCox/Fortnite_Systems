@@ -1,0 +1,1209 @@
+﻿Log file open, 07/22/18 19:57:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Building_System
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2135901755) SRandInit(-2135901755).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.385037
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.732s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-LST8B6F (169.254.205.13:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.22-23.57.29:328][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-23.57.29:328][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.22-23.57.29:340][  0]LogInit: Computer: DESKTOP-LST8B6F
+[2018.07.22-23.57.29:340][  0]LogInit: User: Ty
+[2018.07.22-23.57.29:340][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.07.22-23.57.29:340][  0]LogInit: High frequency timer resolution =3.609373 MHz
+[2018.07.22-23.57.29:340][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.07.22-23.57.29:340][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.22-23.57.29:340][  0]LogMemory: Process Physical Memory: 274.78 MB used, 274.78 MB peak
+[2018.07.22-23.57.29:340][  0]LogMemory: Process Virtual Memory: 271.45 MB used, 271.45 MB peak
+[2018.07.22-23.57.29:340][  0]LogMemory: Physical Memory: 5174.59 MB used,  11164.23 MB free, 16338.83 MB total
+[2018.07.22-23.57.29:340][  0]LogMemory: Virtual Memory: 4814.91 MB used,  11164.23 MB free, 134217728.00 MB total
+[2018.07.22-23.57.29:364][  0]LogInit: Using OS detected language (en-US).
+[2018.07.22-23.57.29:364][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.22-23.57.29:366][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.22-23.57.29:672][  0]LogStreaming: Display: Took  0.309s to EndInitTextLocalization.
+[2018.07.22-23.57.29:672][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.22-23.57.29:711][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.22-23.57.29:711][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.22-23.57.29:849][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.22-23.57.29:897][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.07.22-23.57.29:897][  0]LogD3D11RHI:       8079/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.07.22-23.57.29:898][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.22-23.57.29:898][  0]LogD3D11RHI:       0/0/8169 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.22-23.57.29:898][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.22-23.57.29:902][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.22-23.57.29:902][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.22-23.57.29:902][  0]LogWindows: EnumDisplayDevices:
+[2018.07.22-23.57.29:902][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.07.22-23.57.29:902][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.07.22-23.57.29:902][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.07.22-23.57.29:902][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.07.22-23.57.29:902][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.22-23.57.29:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.07.22-23.57.29:902][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.22-23.57.29:902][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.22-23.57.29:902][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.07.22-23.57.29:930][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.22-23.57.29:930][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.22-23.57.29:930][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.22-23.57.29:968][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.22-23.57.30:060][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Intermediate/Shaders/WorkingDirectory/24124/).
+[2018.07.22-23.57.30:060][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ty/AppData/Local/Temp/UnrealShaderWorkingDir/EFB03A924811976AA68281AD5E37B704/'.
+[2018.07.22-23.57.30:209][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.22-23.57.30:219][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.22-23.57.30:228][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.22-23.57.30:238][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.22-23.57.30:248][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.22-23.57.30:257][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.22-23.57.30:267][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.22-23.57.30:277][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.22-23.57.30:282][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.22-23.57.30:291][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.22-23.57.30:300][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.22-23.57.30:308][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.22-23.57.30:316][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.22-23.57.30:326][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.22-23.57.30:334][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.22-23.57.30:352][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.22-23.57.30:352][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.22-23.57.30:361][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.22-23.57.30:362][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.22-23.57.30:395][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.22-23.57.30:403][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.22-23.57.30:412][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.22-23.57.30:421][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.22-23.57.30:430][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.22-23.57.30:438][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.22-23.57.30:438][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.22-23.57.30:516][  0]LogXGEController: Cleaning working directory: C:/Users/Ty/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.22-23.57.30:516][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.22-23.57.30:516][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.22-23.57.30:516][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.22-23.57.31:006][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.22-23.57.31:054][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/Ty/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-23.57.31:054][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ty/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.22-23.57.31:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.22-23.57.31:054][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.22-23.57.31:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.22-23.57.31:054][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.22-23.57.31:066][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.22-23.57.31:078][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ty/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.22-23.57.31:078][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.22-23.57.31:078][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.22-23.57.31:086][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.22-23.57.31:086][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.22-23.57.31:086][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-23.57.31:086][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-23.57.31:178][  0]LogAssetRegistry: FAssetRegistry took 0.0246 seconds to start up
+[2018.07.22-23.57.31:393][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-23.57.31:499][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.22-23.57.31:501][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.22-23.57.31:501][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.22-23.57.31:501][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.22-23.57.31:501][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.22-23.57.31:501][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.22-23.57.31:535][  0]LogNetVersion: Building_System , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2110074079)
+[2018.07.22-23.57.31:872][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.055337 seconds
+[2018.07.22-23.57.31:876][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.22-23.57.31:876][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.22-23.57.31:876][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.22-23.57.33:090][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.22-23.57.33:114][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.22-23.57.33:372][  0]SourceControl: Source control is disabled
+[2018.07.22-23.57.33:372][  0]SourceControl: Source control is disabled
+[2018.07.22-23.57.33:384][  0]SourceControl: Source control is disabled
+[2018.07.22-23.57.33:395][  0]SourceControl: Source control is disabled
+[2018.07.22-23.57.33:764][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.22-23.57.33:865][  0]LogOcInput: OculusInput pre-init called
+[2018.07.22-23.57.33:946][  0]LogEngine: Initializing Engine...
+[2018.07.22-23.57.33:947][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.22-23.57.33:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-23.57.33:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-23.57.34:102][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.22-23.57.34:152][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-23.57.34:163][  0]LogInit: FAudioDevice initialized.
+[2018.07.22-23.57.34:203][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/Ty/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-23.57.34:211][  0]LogInit: Texture streaming: Enabled
+[2018.07.22-23.57.34:223][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.22-23.57.34:234][  0]LogInit: Transaction tracking system initialized
+[2018.07.22-23.57.34:249][  0]BlueprintLog: New page: Editor Load
+[2018.07.22-23.57.34:302][  0]LocalizationService: Localization service is disabled
+[2018.07.22-23.57.34:371][  0]LogConsoleResponse: Display: 
+[2018.07.22-23.57.34:477][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.22-23.57.34:477][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.22-23.57.34:477][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.22-23.57.34:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-23.57.34:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-23.57.34:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ty/Documents/Unreal Projects/Building_System/Content/' took 0.03s
+[2018.07.22-23.57.34:742][  0]SourceControl: Source control is disabled
+[2018.07.22-23.57.34:742][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.22-23.57.34:748][  0]LightingResults: New page: Lighting Build
+[2018.07.22-23.57.34:750][  0]MapCheck: New page: Map Check
+[2018.07.22-23.57.34:751][  0]LightingResults: New page: Lighting Build
+[2018.07.22-23.57.34:844][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3a8f640, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.22-23.57.34:851][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3a8f640, Size=64
+[2018.07.22-23.57.34:851][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3a8f700, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.22-23.57.34:857][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39e2610, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.07.22-23.57.34:901][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993fe8, Size=24, Default__Bp_Master_Building_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:902][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3993fe8, Size=24
+[2018.07.22-23.57.34:902][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993fe8, Size=24, Default__Bp_Master_Building_C Function /Engine/Transient.REINST_Bp_Master_Building_C_6:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:903][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993bc8, Size=24, Default__Bp_Master_Building_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993dc0, Size=24, Default__BpC_Building_Floor_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:924][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3993dc0, Size=24
+[2018.07.22-23.57.34:924][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993dc0, Size=24, Default__BpC_Building_Floor_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:924][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993748, Size=24, Default__BpC_Building_Floor_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:934][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993730, Size=24, Default__BpC_Building_Stairs_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:935][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3993730, Size=24
+[2018.07.22-23.57.34:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead3993730, Size=24, Default__BpC_Building_Stairs_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39936b8, Size=24, Default__BpC_Building_Stairs_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:945][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39936a0, Size=24, Default__BpC_Building_Wall_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:946][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39936a0, Size=24
+[2018.07.22-23.57.34:946][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39936a0, Size=24, Default__BpC_Building_Wall_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:946][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39935b0, Size=24, Default__BpC_Building_Wall_C Function /Game/Building_System/Blueprints/Classes/Building/Bp_Master_Building.Bp_Master_Building_C:ExecuteUbergraph_Bp_Master_Building
+[2018.07.22-23.57.34:949][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead396cc00, Size=480, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.22-23.57.34:951][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39bae30, Size=48, Default__BpC_Building_Manager_C Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:ExecuteUbergraph_BpC_Building_Manager
+[2018.07.22-23.57.34:995][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead36bc9a0, Size=144, Default__BpC_Player_Resources_C Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+[2018.07.22-23.57.35:011][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39a7190, Size=56, Default__Bp_Master_Stat_Manager_C Function /Game/Building_System/Blueprints/Classes/Stats/Bp_Master_Stat_Manager.Bp_Master_Stat_Manager_C:ExecuteUbergraph_Bp_Master_Stat_Manager
+[2018.07.22-23.57.35:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39b4800, Size=104, Default__BpC_Player_Stat_Manager_C Function /Game/Building_System/Blueprints/Classes/Stats/BpC_Player_Stat_Manager.BpC_Player_Stat_Manager_C:ExecuteUbergraph_BpC_Player_Stat_Manager
+[2018.07.22-23.57.35:014][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39a7200, Size=56, Default__BpC_Player_Stat_Manager_C Function /Game/Building_System/Blueprints/Classes/Stats/Bp_Master_Stat_Manager.Bp_Master_Stat_Manager_C:ExecuteUbergraph_Bp_Master_Stat_Manager
+[2018.07.22-23.57.35:145][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39ba290, Size=48, Default__W_StatBar_C Function /Game/Building_System/Widgets/W_StatBar.W_StatBar_C:ExecuteUbergraph_W_StatBar
+[2018.07.22-23.57.35:189][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead358afa0, Size=32, Default__W_Building_C Function /Game/Building_System/Widgets/W_Building.W_Building_C:ExecuteUbergraph_W_Building
+[2018.07.22-23.57.35:203][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead655bfb8, Size=4, Default__W_Resource_C Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:ExecuteUbergraph_W_Resource
+[2018.07.22-23.57.35:249][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39a7190, Size=56
+[2018.07.22-23.57.35:249][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead6aef430, Size=56, Default__Bp_Master_Stat_Manager_C Function /Engine/Transient.REINST_Bp_Master_Stat_Manager_C_11:ExecuteUbergraph_Bp_Master_Stat_Manager
+[2018.07.22-23.57.35:250][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39bae30, Size=48
+[2018.07.22-23.57.35:250][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39bae30, Size=48, Default__BpC_Building_Manager_C Function /Engine/Transient.REINST_BpC_Building_Manager_C_12:ExecuteUbergraph_BpC_Building_Manager
+[2018.07.22-23.57.35:250][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead36bc9a0, Size=144
+[2018.07.22-23.57.35:250][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead6aabe20, Size=144, Default__BpC_Player_Resources_C Function /Engine/Transient.REINST_BpC_Player_Resources_C_14:ExecuteUbergraph_BpC_Player_Resources
+[2018.07.22-23.57.35:251][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39b4800, Size=104
+[2018.07.22-23.57.35:251][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39a7200, Size=56
+[2018.07.22-23.57.35:251][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead6ab7eb0, Size=104, Default__BpC_Player_Stat_Manager_C Function /Engine/Transient.REINST_BpC_Player_Stat_Manager_C_15:ExecuteUbergraph_BpC_Player_Stat_Manager
+[2018.07.22-23.57.35:251][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead6aef3f8, Size=56, Default__BpC_Player_Stat_Manager_C Function /Engine/Transient.REINST_Bp_Master_Stat_Manager_C_11:ExecuteUbergraph_Bp_Master_Stat_Manager
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead396cc00, Size=480
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead6ba0c00, Size=480, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_19:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead358afa0, Size=32
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead6afc9c0, Size=32, Default__W_Building_C Function /Engine/Transient.REINST_W_Building_C_0:ExecuteUbergraph_W_Building
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead655bfb8, Size=4
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead655bfb8, Size=4, Default__W_Resource_C Function /Engine/Transient.REINST_W_Resource_C_2:ExecuteUbergraph_W_Resource
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39ba290, Size=48
+[2018.07.22-23.57.35:252][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead39ba290, Size=48, Default__W_StatBar_C Function /Engine/Transient.REINST_W_StatBar_C_3:ExecuteUbergraph_W_StatBar
+[2018.07.22-23.57.35:280][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead6aec918, Size=56, Default__Bp_Master_Stat_Manager_C Function /Game/Building_System/Blueprints/Classes/Stats/Bp_Master_Stat_Manager.Bp_Master_Stat_Manager_C:ExecuteUbergraph_Bp_Master_Stat_Manager
+[2018.07.22-23.57.35:282][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead77be320, Size=48, Default__BpC_Building_Manager_C Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:ExecuteUbergraph_BpC_Building_Manager
+[2018.07.22-23.57.35:284][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead7767240, Size=144, Default__BpC_Player_Resources_C Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+[2018.07.22-23.57.35:285][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead7734560, Size=104, Default__BpC_Player_Stat_Manager_C Function /Game/Building_System/Blueprints/Classes/Stats/BpC_Player_Stat_Manager.BpC_Player_Stat_Manager_C:ExecuteUbergraph_BpC_Player_Stat_Manager
+[2018.07.22-23.57.35:285][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead77ac790, Size=56, Default__BpC_Player_Stat_Manager_C Function /Game/Building_System/Blueprints/Classes/Stats/Bp_Master_Stat_Manager.Bp_Master_Stat_Manager_C:ExecuteUbergraph_Bp_Master_Stat_Manager
+[2018.07.22-23.57.35:287][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead77f5c00, Size=480, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.22-23.57.35:289][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead76fa480, Size=32, Default__W_Building_C Function /Game/Building_System/Widgets/W_Building.W_Building_C:ExecuteUbergraph_W_Building
+[2018.07.22-23.57.35:291][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead65583d0, Size=4, Default__W_Resource_C Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:ExecuteUbergraph_W_Resource
+[2018.07.22-23.57.35:292][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ead76ac7c0, Size=48, Default__W_StatBar_C Function /Game/Building_System/Widgets/W_StatBar.W_StatBar_C:ExecuteUbergraph_W_StatBar
+[2018.07.22-23.57.35:503][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.498983ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.07.22-23.57.35:695][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.22-23.57.35:702][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3a8f700, Size=64
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3993fe8, Size=24
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3993dc0, Size=24
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead3993730, Size=24
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39936a0, Size=24
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead6ba0c00, Size=480
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39bae30, Size=48
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead6aabe20, Size=144
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead6aef430, Size=56
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead6ab7eb0, Size=104
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead6aef3f8, Size=56
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead39ba290, Size=48
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead6afc9c0, Size=32
+[2018.07.22-23.57.35:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead655bfb8, Size=4
+[2018.07.22-23.57.35:713][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.22-23.57.35:754][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.665ms to complete.
+[2018.07.22-23.57.35:754][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.013
+[2018.07.22-23.57.35:885][  0]LogCollectionManager: Loaded 0 collections in 0.001382 seconds
+[2018.07.22-23.57.35:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ty/Documents/Unreal Projects/Building_System/Saved/Collections/' took 0.01s
+[2018.07.22-23.57.35:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ty/Documents/Unreal Projects/Building_System/Content/Developers/Ty/Collections/' took 0.01s
+[2018.07.22-23.57.35:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ty/Documents/Unreal Projects/Building_System/Content/Collections/' took 0.01s
+[2018.07.22-23.57.35:934][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.22-23.57.35:941][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2452 classes and 558 folders.
+[2018.07.22-23.57.35:948][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-23.57.35:982][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2018.07.22-23.57.35:986][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.22-23.57.36:036][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.22-23.57.36:038][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.22-23.57.36:043][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.22-23.57.36:113][  0]LogRenderer: Reallocating scene render targets to support 1616x892 Format 10 NumSamples 1 (Frame:1).
+[2018.07.22-23.57.36:276][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2018.07.22-23.57.36:276][  0]LogLoad: (Engine Initialization) Total time: 9.03 seconds
+[2018.07.22-23.57.36:276][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.22-23.57.36:286][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.22-23.57.36:306][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.22-23.57.36:372][  0]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2018.07.22-23.57.36:399][  1]LogAssetRegistry: Asset discovery search completed in 5.2435 seconds
+[2018.07.22-23.57.36:401][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.22-23.57.36:401][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.07.22-23.57.39:083][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-23.57.39:184][306]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-23.57.39:201][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.22-23.57.39:202][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-23.57.39:209][306]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 3:57:39 PM)
+[2018.07.22-23.57.39:209][306]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.22-23.57.39:227][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017661s)
+[2018.07.22-23.57.39:227][306]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.22-23.57.39:228][306]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2018.07.22-23.57.39:228][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018801s)
+[2018.07.22-23.57.39:242][306]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-23.57.39:249][306]LogInit: FAudioDevice initialized.
+[2018.07.22-23.57.39:302][306]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.22-23.57.39:311][306]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-19.57.39
+[2018.07.22-23.57.39:315][306]LogWorld: Bringing up level for play took: 0.005121
+[2018.07.22-23.57.39:330][306]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.07.22-23.57.39:349][306]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.112
+[2018.07.22-23.57.39:349][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.22-23.57.48:087][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.22-23.57.48:124][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.22-23.57.52:951][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-23.57.52:970][920]LogContentBrowser: Verbose: The majority of assets in the view are of type: Class
+[2018.07.22-23.57.54:838][142]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2018.07.22-23.58.27:203][347]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2018.07.22-23.58.29:109][572]LogSlate: Took 0.004273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.22-23.58.29:389][572]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.07.22-23.58.29:620][572]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ea82301458, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.22-23.58.29:620][572]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ea82301450, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.22-23.58.36:413][330]LogSlate: Window 'ThirdPersonOverview' being destroyed
+[2018.07.22-23.58.36:798][330]LogSlate: Took 0.003985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.22-23.58.40:430][725]LogSlate: Window 'ThirdPersonOverview' being destroyed
+[2018.07.22-23.58.40:433][725]LogSlate: Window 'ThirdPersonOverview' being destroyed
+[2018.07.22-23.58.48:986][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-23.58.50:304][807]LogSlate: Took 0.004169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.22-23.59.39:100][882]LogRenderer: Reallocating scene render targets to support 1616x1000 Format 10 NumSamples 1 (Frame:1).
+[2018.07.23-00.10.03:735][896]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.10.03:758][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.03:758][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.10.03:758][896]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:10:03 PM)
+[2018.07.23-00.10.03:758][896]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.10.03:769][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010353s)
+[2018.07.23-00.10.03:769][896]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.10.03:769][896]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2018.07.23-00.10.03:769][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011189s)
+[2018.07.23-00.10.03:821][896]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.10.03:827][896]LogInit: FAudioDevice initialized.
+[2018.07.23-00.10.03:862][896]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.10.03:864][896]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.10.03
+[2018.07.23-00.10.03:864][896]LogWorld: Bringing up level for play took: 0.001182
+[2018.07.23-00.10.03:868][896]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.408
+[2018.07.23-00.10.03:868][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.07:742][212]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.07:742][212]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.07:742][212]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.07:742][212]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.07:742][212]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.07:742][212]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.10:684][564]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.10:684][564]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.10:684][564]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.10:684][564]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.10:684][564]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.10:684][564]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.11:242][631]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.11:242][631]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.11:242][631]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.11:242][631]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.11:242][631]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.11:242][631]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.14:069][970]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.14:069][970]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.14:069][970]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.14:069][970]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.14:069][970]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.14:069][970]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.19:179][582]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.19:179][582]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.19:179][582]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.19:179][582]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.19:179][582]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.19:179][582]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.19:930][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.19:972][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.21:108][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.10.21:191][795]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.10.21:208][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.21:208][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.10.21:208][795]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:10:21 PM)
+[2018.07.23-00.10.21:208][795]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.10.21:218][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009916s)
+[2018.07.23-00.10.21:219][795]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.10.21:219][795]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.07.23-00.10.21:219][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010672s)
+[2018.07.23-00.10.21:234][795]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.10.21:240][795]LogInit: FAudioDevice initialized.
+[2018.07.23-00.10.21:273][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.10.21:274][795]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.10.21
+[2018.07.23-00.10.21:275][795]LogWorld: Bringing up level for play took: 0.001509
+[2018.07.23-00.10.21:279][795]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.182
+[2018.07.23-00.10.21:279][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.24:179][138]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.24:179][138]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.24:179][138]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BpC_Building_Manager_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.BpC_Building_Manager
+	Function /Game/Building_System/Blueprints/Classes/Building/BpC_Building_Manager.BpC_Building_Manager_C:GetWidgetForBuilding:0260
+[2018.07.23-00.10.24:179][138]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.24:179][138]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.25:420][287]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.25:420][287]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.25:420][287]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.10.27:363][520]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.27:394][520]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.29:092][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.10.55:842][803]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.10.55:858][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.10.55:859][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.10.55:859][803]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:10:55 PM)
+[2018.07.23-00.10.55:859][803]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.10.55:869][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009957s)
+[2018.07.23-00.10.55:869][803]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.10.55:869][803]LogPlayLevel: PIE: World Init took: (0.000472s)
+[2018.07.23-00.10.55:869][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010603s)
+[2018.07.23-00.10.55:885][803]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.10.55:891][803]LogInit: FAudioDevice initialized.
+[2018.07.23-00.10.55:928][803]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.10.55:930][803]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.10.55
+[2018.07.23-00.10.55:930][803]LogWorld: Bringing up level for play took: 0.001406
+[2018.07.23-00.10.55:934][803]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.473
+[2018.07.23-00.10.55:934][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.11.00:136][284]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.11.00:136][284]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.11.00:136][284]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.11.01:783][477]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetNextResource', from offset 612
+[2018.07.23-00.11.01:784][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.11.01:787][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.10:548][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.16:906][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.17:618][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.18:216][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.20:331][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.21:532][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.22:254][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.23:024][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.24:056][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.24:378][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.24:600][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.24:810][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.25:092][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.25:679][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.26:029][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.26:489][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.27:196][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.28:260][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.28:992][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.29:645][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.30:104][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.30:931][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.31:629][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.32:223][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.32:881][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.33:775][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.34:446][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.35:165][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.35:805][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.37:541][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.38:338][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.40:944][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.41:708][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.43:021][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.43:986][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.49:081][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.50:783][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.52:126][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.52:945][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.53:665][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.54:393][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.55:125][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.55:785][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.56:279][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.56:735][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.57:072][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.57:339][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.57:611][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.57:898][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.58:248][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.58:517][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.58:751][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.11.59:828][477]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 95
+[2018.07.23-00.11.59:828][477]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.11.59:834][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.12.03:902][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.12.07:658][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.12.07:707][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.12.09:091][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.12.10:815][814]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.014
+[2018.07.23-00.12.10:817][814]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.07.23-00.12.10:834][814]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.07.23-00.12.10:834][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.07.23-00.12.10:915][814]LogSavePackage: Save=65.31ms
+[2018.07.23-00.12.10:915][814]LogSavePackage: Moving '../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Saved/ThirdPersonCharacter_Auto154F833314E7CBF29C5C68C97459DDFF3.tmp' to '../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.07.23-00.12.10:917][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.07.23-00.12.10:917][814]LogFileHelpers: Auto-saving content packages took 0.101
+[2018.07.23-00.12.28:978][898]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.12.28:998][898]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.12.28:999][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.12.28:999][898]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:12:28 PM)
+[2018.07.23-00.12.28:999][898]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.12.29:009][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010206s)
+[2018.07.23-00.12.29:010][898]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.12.29:010][898]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.07.23-00.12.29:010][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011046s)
+[2018.07.23-00.12.29:027][898]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.12.29:033][898]LogInit: FAudioDevice initialized.
+[2018.07.23-00.12.29:063][898]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.12.29:064][898]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.12.29
+[2018.07.23-00.12.29:064][898]LogWorld: Bringing up level for play took: 0.000986
+[2018.07.23-00.12.29:066][898]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.12.29:067][898]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:InitManager
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.12.33:559][898]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 4.098
+[2018.07.23-00.12.33:559][898]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.12.37:853][399]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.12.37:853][399]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.12.37:853][399]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.12.39:083][546]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.12.39:084][546]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.12.39:084][546]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.12.39:535][600]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetNextResource', from offset 612
+[2018.07.23-00.12.39:535][600]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.12.39:541][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.12.44:847][600]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.12.44:847][600]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.12.44:849][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.14.20:518][600]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.14.20:518][600]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.14.20:524][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.14.26:553][847]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.14.26:553][847]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.14.26:553][847]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.14.27:490][959]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.14.27:490][959]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.14.27:496][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.14.35:872][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.15.13:119][959]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.15.13:120][959]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.15.13:126][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.15.14:619][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.14:660][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.15:831][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.15.19:426][498]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.15.19:446][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.19:447][498]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.23-00.15.19:463][498]LogPlayLevel: [PlayLevel] Compiling W_Resource before play...
+[2018.07.23-00.15.19:469][498]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead65583d0, Size=4
+[2018.07.23-00.15.19:469][498]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ea9632b188, Size=4, Default__W_Resource_C Function /Engine/Transient.REINST_W_Resource_C_6:ExecuteUbergraph_W_Resource
+[2018.07.23-00.15.19:471][498]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ea9632bed0, Size=4, Default__W_Resource_C Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:ExecuteUbergraph_W_Resource
+[2018.07.23-00.15.19:556][498]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ea9632b188, Size=4
+[2018.07.23-00.15.19:557][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2018.07.23-00.15.19:557][498]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:15:19 PM)
+[2018.07.23-00.15.19:557][498]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.15.19:566][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009332s)
+[2018.07.23-00.15.19:567][498]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.15.19:567][498]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2018.07.23-00.15.19:567][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010014s)
+[2018.07.23-00.15.19:586][498]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.15.19:592][498]LogInit: FAudioDevice initialized.
+[2018.07.23-00.15.19:628][498]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.15.19:630][498]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.15.19
+[2018.07.23-00.15.19:630][498]LogWorld: Bringing up level for play took: 0.001534
+[2018.07.23-00.15.19:633][498]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.15.19:633][498]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:InitManager
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.15.21:040][498]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.579
+[2018.07.23-00.15.21:040][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.21:053][498]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.21:089][498]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.22:867][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.15.22:889][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.22:889][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.15.22:889][700]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:15:22 PM)
+[2018.07.23-00.15.22:889][700]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.15.22:897][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008304s)
+[2018.07.23-00.15.22:898][700]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.15.22:898][700]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.07.23-00.15.22:898][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009141s)
+[2018.07.23-00.15.22:915][700]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.15.22:921][700]LogInit: FAudioDevice initialized.
+[2018.07.23-00.15.22:958][700]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.15.22:960][700]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.15.22
+[2018.07.23-00.15.22:961][700]LogWorld: Bringing up level for play took: 0.001523
+[2018.07.23-00.15.22:963][700]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.15.22:963][700]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:InitManager
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.15.25:240][700]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.78
+[2018.07.23-00.15.25:241][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.26:704][871]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.15.26:704][871]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.15.26:704][871]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.15.27:213][932]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.15.27:213][932]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.15.27:219][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.15.29:442][932]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.15.29:442][932]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.15.29:448][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.15.35:244][121]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.15.35:244][121]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.15.35:244][121]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.15.37:634][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.37:669][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.15.38:505][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.16.12:588][547]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.16.12:609][547]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.12:609][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.16.12:609][547]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:16:12 PM)
+[2018.07.23-00.16.12:609][547]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.16.12:619][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009517s)
+[2018.07.23-00.16.12:619][547]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.16.12:619][547]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.07.23-00.16.12:619][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010461s)
+[2018.07.23-00.16.12:638][547]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.16.12:644][547]LogInit: FAudioDevice initialized.
+[2018.07.23-00.16.12:675][547]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.16.12:677][547]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.16.12
+[2018.07.23-00.16.12:677][547]LogWorld: Bringing up level for play took: 0.001408
+[2018.07.23-00.16.12:681][547]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.78
+[2018.07.23-00.16.12:681][547]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.14:413][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.14:413][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.14:414][744]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.16:217][959]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.16:217][959]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.16:217][959]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.17:204][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.17:239][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.17:841][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.16.32:076][806]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.16.32:096][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.32:096][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.16.32:096][806]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:16:32 PM)
+[2018.07.23-00.16.32:096][806]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.16.32:105][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008633s)
+[2018.07.23-00.16.32:106][806]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.16.32:106][806]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.07.23-00.16.32:106][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009375s)
+[2018.07.23-00.16.32:122][806]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.16.32:128][806]LogInit: FAudioDevice initialized.
+[2018.07.23-00.16.32:162][806]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.16.32:163][806]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.16.32
+[2018.07.23-00.16.32:163][806]LogWorld: Bringing up level for play took: 0.001036
+[2018.07.23-00.16.32:166][806]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.16.32:166][806]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:InitManager
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.16.35:080][806]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 3.619
+[2018.07.23-00.16.35:080][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.37:554][ 96]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.37:554][ 96]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.37:554][ 96]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.16.37:940][142]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.16.37:940][142]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.16.37:945][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.16.41:511][142]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.16.41:511][142]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_RightMouseButton_K2Node_InputKeyEvent_1
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetNextResource
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.16.41:516][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.16.44:133][142]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.44:169][142]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.16.50:612][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.17.23:773][574]BlueprintLog: New page: Compile BpC_Player_Resources
+[2018.07.23-00.17.23:803][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead7767240, Size=144
+[2018.07.23-00.17.23:803][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb15f5b600, Size=144, Default__BpC_Player_Resources_C Function /Engine/Transient.REINST_BpC_Player_Resources_C_56:ExecuteUbergraph_BpC_Player_Resources
+[2018.07.23-00.17.23:809][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb0806c900, Size=144, Default__BpC_Player_Resources_C Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+[2018.07.23-00.17.25:086][708]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.17.25:106][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.25:107][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.17.25:107][708]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:17:25 PM)
+[2018.07.23-00.17.25:107][708]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.17.25:115][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008529s)
+[2018.07.23-00.17.25:116][708]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.17.25:116][708]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2018.07.23-00.17.25:116][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009119s)
+[2018.07.23-00.17.25:130][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002eb15f5b600, Size=144
+[2018.07.23-00.17.25:134][708]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.17.25:140][708]LogInit: FAudioDevice initialized.
+[2018.07.23-00.17.25:168][708]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.17.25:170][708]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.17.25
+[2018.07.23-00.17.25:170][708]LogWorld: Bringing up level for play took: 0.000954
+[2018.07.23-00.17.25:172][708]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 78
+[2018.07.23-00.17.25:172][708]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:InitManager
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+	Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:SetCurrentResource
+	Function /Game/Building_System/Widgets/W_Resource.W_Resource_C:SelectResource
+
+[2018.07.23-00.17.30:340][708]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 4.879
+[2018.07.23-00.17.30:340][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.32:147][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.32:179][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.33:028][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.17.33:123][ 13]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.23-00.17.33:126][ 13]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.07.23-00.17.33:973][114]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.17.33:993][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.33:993][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.17.33:993][114]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:17:33 PM)
+[2018.07.23-00.17.33:993][114]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.17.34:001][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008199s)
+[2018.07.23-00.17.34:002][114]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.17.34:002][114]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2018.07.23-00.17.34:002][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009137s)
+[2018.07.23-00.17.34:019][114]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.17.34:025][114]LogInit: FAudioDevice initialized.
+[2018.07.23-00.17.34:055][114]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.17.34:056][114]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.17.34
+[2018.07.23-00.17.34:057][114]LogWorld: Bringing up level for play took: 0.001153
+[2018.07.23-00.17.34:060][114]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.6
+[2018.07.23-00.17.34:061][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.34:701][188]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.34:701][188]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.34:701][188]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.36:720][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.36:720][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.36:720][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.39:102][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.39:137][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.40:488][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.17.57:099][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.17.57:190][800]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.17.57:210][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.57:210][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.17.57:210][800]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:17:57 PM)
+[2018.07.23-00.17.57:210][800]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.17.57:219][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008481s)
+[2018.07.23-00.17.57:219][800]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.17.57:220][800]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.07.23-00.17.57:220][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009277s)
+[2018.07.23-00.17.57:237][800]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.17.57:243][800]LogInit: FAudioDevice initialized.
+[2018.07.23-00.17.57:276][800]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.17.57:277][800]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.17.57
+[2018.07.23-00.17.57:278][800]LogWorld: Bringing up level for play took: 0.001013
+[2018.07.23-00.17.57:281][800]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.18
+[2018.07.23-00.17.57:281][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.17.58:070][885]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.58:070][885]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.17.58:070][885]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.18.02:395][400]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.18.02:395][400]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.18.02:395][400]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.18.04:325][630]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.18.04:325][630]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.18.04:325][630]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.18.05:684][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.18.05:720][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.18.09:772][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.23-00.18.12:440][545]BlueprintLog: New page: Compile BpC_Player_Resources
+[2018.07.23-00.18.12:477][545]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002eb0806c900, Size=144
+[2018.07.23-00.18.12:477][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb183ed120, Size=144, Default__BpC_Player_Resources_C Function /Engine/Transient.REINST_BpC_Player_Resources_C_63:ExecuteUbergraph_BpC_Player_Resources
+[2018.07.23-00.18.12:482][545]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ea9d8904a0, Size=144, Default__BpC_Player_Resources_C Function /Game/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.BpC_Player_Resources_C:ExecuteUbergraph_BpC_Player_Resources
+[2018.07.23-00.18.13:364][624]LogSavePackage: Save=42.07ms
+[2018.07.23-00.18.13:364][624]LogSavePackage: Moving '../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Saved/BpC_Player_ResourcesF558A0C24EAFEF4C0A72E8A0BB34D7F5.tmp' to '../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Content/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.uasset'
+[2018.07.23-00.18.13:366][624]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Content/Building_System/Blueprints/Classes/Resources/BpC_Player_Resources.uasset
+[2018.07.23-00.18.14:978][796]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.07.23-00.18.15:026][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ead77f5c00, Size=480
+[2018.07.23-00.18.15:026][796]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb1b289000, Size=480, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_73:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.23-00.18.15:034][796]LogUObjectGlobals: Created PersistentFrame Addr=0x000002eb131b5800, Size=480, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.07.23-00.18.15:274][796]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002eb183ed120, Size=144
+[2018.07.23-00.18.15:515][797]LogSavePackage: Save=62.08ms
+[2018.07.23-00.18.15:515][797]LogSavePackage: Moving '../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Saved/ThirdPersonCharacterD95FA87E4CC082E79ECEF396B9DC7B8B.tmp' to '../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.07.23-00.18.15:519][797]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Ty/Documents/Unreal Projects/Building_System/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.07.23-00.18.36:605][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.23-00.18.36:635][271]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.18.36:635][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.23-00.18.36:635][271]PIE: New page: PIE session: ThirdPersonExampleMap (Jul 22, 2018, 4:18:36 PM)
+[2018.07.23-00.18.36:635][271]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.07.23-00.18.36:644][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008380s)
+[2018.07.23-00.18.36:644][271]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.23-00.18.36:644][271]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2018.07.23-00.18.36:644][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009060s)
+[2018.07.23-00.18.36:663][271]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.23-00.18.36:669][271]LogInit: FAudioDevice initialized.
+[2018.07.23-00.18.36:703][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.23-00.18.36:705][271]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.07.22-20.18.36
+[2018.07.23-00.18.36:705][271]LogWorld: Bringing up level for play took: 0.001398
+[2018.07.23-00.18.36:709][271]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.752
+[2018.07.23-00.18.36:709][271]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.07.23-00.18.37:548][352]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 1219
+[2018.07.23-00.18.37:548][352]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_AnyKey_K2Node_InputKeyEvent_4
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.18.37:554][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.18.40:482][454]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 1219
+[2018.07.23-00.18.40:482][454]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_AnyKey_K2Node_InputKeyEvent_4
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.18.40:488][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.18.45:337][820]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 1219
+[2018.07.23-00.18.45:337][820]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_AnyKey_K2Node_InputKeyEvent_4
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.18.45:344][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.20.16:187][820]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.16:187][820]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.16:187][820]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.17:344][945]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 1219
+[2018.07.23-00.20.17:344][945]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_AnyKey_K2Node_InputKeyEvent_4
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.20.17:346][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.20.21:038][182]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 1219
+[2018.07.23-00.20.21:038][182]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_AnyKey_K2Node_InputKeyEvent_4
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.20.21:041][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.20.29:564][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.29:564][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.29:564][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.29:564][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.29:564][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.29:564][182]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'GetWidgetForBuilding' from node: Branch in graph: GetWidgetForBuilding in object: BpC_Building_Manager with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.07.23-00.20.31:945][449]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 1219
+[2018.07.23-00.20.31:945][449]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpActEvt_AnyKey_K2Node_InputKeyEvent_4
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+
+[2018.07.23-00.20.31:948][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.22.36:612][449]LogSlate: Window 'Debug' being destroyed
+[2018.07.23-00.23.41:578][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.23.56:770][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.23.57:583][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.24.08:856][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.24.14:418][449]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.23-00.24.15:897][449]LogUObjectArray: Warning: Invalid object index -842150451
+[2018.07.23-00.24.15:897][449]LogOutputDevice: Warning: 
+
+Script Stack:
+BpC_Building_Manager_C.SetBuildingByIndex
+ThirdPersonCharacter_C.ExecuteUbergraph_ThirdPersonCharacter
+ThirdPersonCharacter_C.InpActEvt_AnyKey_K2Node_InputKeyEvent_4
+
+[2018.07.23-00.24.16:136][449]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.238 s
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: 
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: Stack: 
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D69BB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D671AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D672ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C4B33DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000BF27B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C09FC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C08877AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C088AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C09C6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A16057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A1BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5C4C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A70475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A48360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A3B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000EDFEE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000EDFE1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000EDFF052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000EDFDD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x0000000016F36CC1 USER32.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x0000000016F36693 USER32.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000EDFF15C9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A6AA99 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A69769 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D5A15CEA UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C4B0F7E3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C4B3DD02 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000C4F3B73A UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D61FDD7D UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D623C149 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D624701A UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D621AA82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D62011EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D62187B1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D621AA82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D62011EE UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D621AA82 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D602E094 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D6219D73 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000A988CCFB UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AAA910BE UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AAA9122A UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AAAC30DB UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA5FA6A9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA60EF05 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA5F816B UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA60E0AC UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000A98600E4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA9670BB UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA96C793 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D65EB713 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D65EBD3A UE4Editor-Core.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000D660ECFE UE4Editor-Core.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA98D771 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:136][449]LogOutputDevice: Error: [Callstack] 0x00000000AA993292 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x00000000AA1EC304 UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x00000000AA1F756B UE4Editor-Engine.dll!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x00000000C46FD781 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x00000000C4F99626 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x000000000F665EAC UE4Editor.exe!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x000000000F676BD0 UE4Editor.exe!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x000000000F676C4A UE4Editor.exe!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x000000000F684177 UE4Editor.exe!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x000000000F685B87 UE4Editor.exe!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x0000000017993034 KERNEL32.DLL!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: [Callstack] 0x0000000017D71431 ntdll.dll!UnknownFunction []
+[2018.07.23-00.24.16:137][449]LogOutputDevice: Error: 
+[2018.07.23-00.24.16:141][449]LogStats:                SubmitErrorReport -  0.000 s
